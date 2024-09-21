@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "io.h": "c",
+        "iom644pa.h": "c",
+        "interrupt.h": "c",
+        "iotn24a.h": "c",
+        "delay.h": "c",
+        "iotn24.h": "c",
+        "iotn44.h": "c",
+        "usi_twi_master.h": "c"
+    }
+}
