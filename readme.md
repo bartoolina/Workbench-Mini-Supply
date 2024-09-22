@@ -2,7 +2,8 @@
 A compact and portable power supply project designed to simplify the development of electronic projects.
 
 ## Project Overview
-The Workbench Mini Supply is a mini power supply project that aims to provide a affordable and mobile solution for powering electronic projects. The project is designed to be versatile, allowing it to be powered from various sources such as wall adapters or batteries.
+This project implements a **workshop power supply** with both **current** and **voltage limiting** capabilities. The design is intended for hobbyist use, particularly in environments where accidental miswiring of devices might occur. The power supply provides protection against improper connections and can switch between two power sources: a standard external power supply or a battery.
+
 
 ## Features
 - **Voltage Regulation**: Adjustable output voltage up to 12V.
